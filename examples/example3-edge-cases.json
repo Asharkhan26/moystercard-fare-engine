@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2024-03-10T01:59:00",
+    "fromZone": 2,
+    "toZone": 1
+  },
+  {
+    "timestamp": "2024-03-10T03:01:00",
+    "fromZone": 1,
+    "toZone": 2
+  },
+  {
+    "timestamp": "2024-02-29T07:15:00",
+    "fromZone": 1,
+    "toZone": 1
+  },
+  {
+    "timestamp": "2024-02-29T23:59:59",
+    "fromZone": 1,
+    "toZone": 2
+  },
+  {
+    "timestamp": "2024-03-01T00:00:01",
+    "fromZone": 2,
+    "toZone": 1
+  },
+  {
+    "timestamp": "2024-03-03T23:59:59",
+    "fromZone": 1,
+    "toZone": 2
+  },
+  {
+    "timestamp": "2024-03-04T00:00:01",
+    "fromZone": 2,
+    "toZone": 1
+  },
+  {
+    "timestamp": "2024-11-03T01:00:00",
+    "fromZone": 1,
+    "toZone": 2
+  },
+  {
+    "timestamp": "2024-11-03T01:00:00",
+    "fromZone": 2,
+    "toZone": 1
+  }
+]

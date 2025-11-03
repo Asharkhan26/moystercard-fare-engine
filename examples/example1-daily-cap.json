@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-11-03T10:20:00",
+    "fromZone": 2,
+    "toZone": 1
+  },
+  {
+    "timestamp": "2025-11-03T10:45:00",
+    "fromZone": 1,
+    "toZone": 1
+  },
+  {
+    "timestamp": "2025-11-03T16:15:00",
+    "fromZone": 1,
+    "toZone": 1
+  },
+  {
+    "timestamp": "2025-11-03T18:15:00",
+    "fromZone": 1,
+    "toZone": 1
+  },
+  {
+    "timestamp": "2025-11-03T19:00:00",
+    "fromZone": 1,
+    "toZone": 2
+  }
+]
